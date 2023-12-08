@@ -5,7 +5,12 @@
     <p align='center'>
 <a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/adityapanwar94/adityapanwar94/main/assets/discord-round.svg?token=GHSAT0AAAAAACKPFKXXOBCFZTALKKX7T2WOZLTUE3Q"></a>
-       
+
+
  </p>
     </div>
 <br>
+
+- M.Tech @IIT Bombay
+- CSE, Educational Technology
+- DS | Research | Digital Products | Project Manager@IIT Bombay
