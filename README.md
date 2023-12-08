@@ -5,6 +5,8 @@
     <p align='center'>
 <a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 
+<a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/adityapanwar94/adityapanwar94/main/Discord.webp?token=GHSAT0AAAAAACKPFKXXL2N4NK6BKSSDJVVYZLTTW5Q?raw=true"></a>
+       
  </p>
     </div>
 <br>
