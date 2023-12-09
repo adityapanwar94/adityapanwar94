@@ -7,6 +7,7 @@
 src="https://github.com/adityapanwar94/adityapanwar94/blob/main/assets/gmail.png?raw=true"></a>
 <a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
 <a href="https://www.discord.com/adityap94/"><img height="30" src="https://github.com/adityapanwar94/adityapanwar94/blob/main/assets/discord-round.svg?token=GHSAT0AAAAAACKPFKXX5GJIRQBRMDDS2QMEZLUMLVQ"></a>
+<a href="https://www.instagram.com/ad1tya._/"><img height="30" src="https://github.com/adityapanwar94/adityapanwar94/blob/main/assets/insta.png"></a>
  </p>
     </div>
     
