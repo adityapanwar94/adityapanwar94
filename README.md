@@ -14,5 +14,7 @@
 - M.Tech @IIT Bombay
 - CSE, Educational Technology
 - DS | Research | Digital Products | Project Manager@IIT Bombay
+  
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=adityapanwar94" alt="visitor badge"/></p>
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityapanwar94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://https://github.com/adityapanwar94)
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityapanwar94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=issues,contribution)](https://https://github.com/adityapanwar94)
