@@ -4,7 +4,7 @@
    <h1> Namaste! I'm <a href> Aditya </a>  </h1>
     <p align='center'>
 <a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/adityapanwar01/"><img height="30" src="https://raw.githubusercontent.com/adityapanwar94/adityapanwar94/main/assets/discord-round.svg?token=GHSAT0AAAAAACKPFKXXOBCFZTALKKX7T2WOZLTUE3Q"></a>
+<a href="https://www.discord.com/adityap94/"><img height="30" src="https://raw.githubusercontent.com/adityapanwar94/adityapanwar94/main/assets/discord-round.svg?token=GHSAT0AAAAAACKPFKXX5GJIRQBRMDDS2QMEZLUMLVQ"></a>
 
 
  </p>
