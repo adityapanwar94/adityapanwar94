@@ -11,17 +11,45 @@
 ## About:
 * M.Tech **@IIT Bombay'23**
 * Compter Science & Educational Technology
-- DS | Research | Digital Products | Project Manager@IIT Bombay
+* Interdisciplinary Researcher
+*  DS | Research | Digital Products | Project Manager@IIT Bombay
+*  ![Datacamp](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860) certified Professional Data Analyst
+*  ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=Databricks&logoColor=white) Apache Spark certified
+
 
 ## 🛠️Technical Expertise & Tools:
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/155930032-33a35b75-dcc1-4259-bfe6-b67ee3f12804.png" alt="javascript"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/224957808-9f6caeae-cbf4-46d4-b7ed-b08b30b369c2.png" alt="clang"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/224958798-c16e8949-2e8d-4605-aed0-ed84e1ae511a.png" alt="cpp"></code>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
+![Tensor Flow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Jupyer](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
 
-  
+
+![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 <p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=adityapanwar94" alt="visitor badge"/></p>
 
-[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityapanwar94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=issues,contribution)](https://https://github.com/adityapanwar94)
+</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityapanwar94&layout=compact&count_private=true&langs_count=8" alt="Top Langs" width="40%" height="%50">
+  <img src="https://github-readme-stats.vercel.app/api?username=adityapanwar94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=issues,contributions" alt="Aditya's GitHub Stats" width="50%" height="%70">
+</p>
+
+<!--
+<div align="center">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityapanwar94&layout=compact&count_private=true&langs_count=8)](https://github.com/adityapanwar94/github-readme-stats)
+
+[![Aditya's github stats](https://github-readme-stats.vercel.app/api?username=adityapanwar94&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&hide=issues,contributions)](https://github.com/adityapanwar94)
+
+
+<img height="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker">
+-->
