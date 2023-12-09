@@ -12,7 +12,7 @@ src="https://github.com/adityapanwar94/adityapanwar94/blob/main/assets/gmail.png
     </div>
 <div align="center"> Data Science | Predictive Analytics | Machine Learning | EdTech | Generative AI 
 
-Project Manager @</div>
+**Project Manager** <img height="30" src="https://github.com/adityapanwar94/adityapanwar94/blob/main/assets/iit.png"> **IIT Bombay** </div> 
 
 ## About:
 * M.Tech **@IIT Bombay'23**
